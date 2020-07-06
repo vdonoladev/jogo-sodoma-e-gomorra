@@ -4,7 +4,7 @@
 # Início do programa
 print("\n"*100)
 print("Neste jogo você deve convencer Deus a não destruir Sodoma e Gomorra.")
-print("No prompt, Digite:")
+print("No prompt 'Eu' Digite:")
 print("--> Senhor, e se houver xyz justos na cidade?")
 print("(Onde 'xyz' corresponde a um número entre 0 e 999)")
 print("BOA SORTE!!!")
