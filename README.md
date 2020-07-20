@@ -5,7 +5,9 @@ Neste jogo você deve convencer a Deus a não destruir Sodoma e Gomorra (Genesis
 Algo um tanto quanto muito dificil, mas vamos lá:
 
 No prompt "Eu:" Digite:
+
 --> Senhor, e se houver xyz justos na cidade?
+
 (Onde 'xyz' corresponde a um número entre 0 e 999)
 
 Lembre-se: Digite certo para acabar logo!
@@ -18,7 +20,9 @@ In this game, you must convince God not to destroy Sodom and Gomorrah (Genesis 1
 Something quite difficult, but here we go:
 
 At the "Eu:" prompt, type:
+
 -> Senhor, e se houver xyz justos na cidade?
+
 (Where 'xyz' corresponds to a number between 0 and 999)
 
 Remember: Type right to end soon!
