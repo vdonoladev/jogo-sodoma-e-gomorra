@@ -1,5 +1,4 @@
-# *** JOGO *** 
-# By Víctor Donola Ferreira (vdonoladev)
+# *** JOGO ***
 
 # Início do programa
 print("\n"*100)
@@ -27,7 +26,7 @@ while numjust >= 10:
 			print("Deus: Você não deveria pedir por menos justos?")
 		elif int(justos[20:23]) < numjust:
 			print("Deus: Você não gostaria de pedir por mais justos?")
-	# Se digitar errado, começa tudo de novo.		
+	# Se digitar errado, começa tudo de novo.
 	except ValueError:
 		print("Deus: Acaso vou destruir as cidades sem consultar Abraao?")
 		numjust = 50
