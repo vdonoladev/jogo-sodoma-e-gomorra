@@ -14,22 +14,22 @@ input("Tecle <ENTER> ")
 print("\n"*100)
 numjust = 50
 while numjust >= 10:
-	justos = input("Eu: ")
-	try:
-		if int(justos[20:23]) == numjust:
-			print("Deus: Não destruirei a cidade por amor dos {} justos".format(numjust))
-			if numjust < 45:
-				numjust -= 5
-			numjust -= 5
-	#Jogo do tipo "quente ou frio".
-		elif int(justos[20:23]) > numjust:
-			print("Deus: Você não deveria pedir por menos justos?")
-		elif int(justos[20:23]) < numjust:
-			print("Deus: Você não gostaria de pedir por mais justos?")
-	# Se digitar errado, começa tudo de novo.
-	except ValueError:
-		print("Deus: Acaso vou destruir as cidades sem consultar Abraao?")
-		numjust = 50
+    justos = input("Eu: ")
+    try:
+        if int(justos[20:23]) == numjust:
+            print("Deus: Não destruirei a cidade por amor dos {} justos".format(numjust))
+            if numjust < 45:
+                numjust -= 5
+            numjust -= 5
+    # Jogo do tipo "quente ou frio".
+        elif int(justos[20:23]) > numjust:
+            print("Deus: Você não deveria pedir por menos justos?")
+        elif int(justos[20:23]) < numjust:
+            print("Deus: Você não gostaria de pedir por mais justos?")
+    # Se digitar errado, começa tudo de novo.
+    except ValueError:
+        print("Deus: Acaso vou destruir as cidades sem consultar Abraao?")
+        numjust = 50
 input("Tecle <ENTER> ")
 
 # Fim do jogo
