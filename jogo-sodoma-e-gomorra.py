@@ -1,5 +1,3 @@
-# *** JOGO ***
-
 # Início do programa
 print("\n"*100)
 print("Neste jogo você deve convencer Deus a não destruir Sodoma e Gomorra.")
