@@ -24,7 +24,7 @@
 
 1. **Clone este repositório:**  
 ```bash  
-git clone https://github.com/vdonoladev/jogo-sodoma-e-gomorra 
+git clone https://github.com/vdonoladev/jogo-sodoma-e-gomorra.git 
 ```  
   
 2. **Navegue até o diretório do projeto:**  
