@@ -1,4 +1,4 @@
-<h1 align="center" style="font-weight: bold;">ScrollAnimations</h1>
+<h1 align="center" style="font-weight: bold;">Sodoma&Gomorra</h1>
 
 <p align="center">
   <a href="#tech">Tecnologias</a> • 
